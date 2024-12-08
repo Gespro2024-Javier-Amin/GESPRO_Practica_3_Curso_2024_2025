@@ -143,3 +143,5 @@ Para comenzar, nos aseguraremos de posicionarnos en el commit correspondiente de
 Incluimos una captura de todo el proyecto visualizado en GitKraken para verificar la estructura y el estado de las ramas.
 
 ![image](https://github.com/user-attachments/assets/70902a05-3258-4624-9d9e-e6a42fd3957e)
+
+En esta captura se ven claramente todos los commits, pasos, etc... dados en el GitKraken.
