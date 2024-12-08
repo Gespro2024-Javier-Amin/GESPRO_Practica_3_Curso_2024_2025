@@ -32,7 +32,7 @@ GNU General Public License for more details.
 
 Para comenzar, nos aseguraremos de posicionarnos en el commit correspondiente del repositorio para subir cambios, tener la rama `master` al día y estar posicionados en esta rama.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/0b025424-5046-48b4-a3e4-8a928b1d6663)
 
 ---
 
@@ -41,7 +41,7 @@ _**Poner foto aquí**_
 1. Creamos una nueva rama que debe estar vinculada con la tarea correspondiente y cuyo nombre coincida con el del repositorio Go Bees.
 2. Esta rama se utilizará para gestionar los cambios de la tarea.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/9b851d93-2043-4520-bfd5-d12c4970ccd8)
 
 ---
 
@@ -50,7 +50,7 @@ _**Poner foto aquí**_
 1. Nos aseguramos de posicionarnos en la rama recién creada en nuestro ordenador local.
 2. Para ello, haremos doble clic sobre la rama en el cliente de Git.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/796ef86d-2e56-484f-9caa-426764299541)
 
 ---
 
@@ -60,7 +60,7 @@ _**Poner foto aquí**_
 2. Copiamos todos los archivos de esta carpeta, excluyendo el directorio `.git`.
 3. Pegamos estos archivos en la carpeta correspondiente de nuestra práctica.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/2b40aee9-46ba-49b4-8fbb-22fe0a082f0e)
 
 ---
 
@@ -70,19 +70,13 @@ _**Poner foto aquí**_
 2. Pulsamos **Stage All Changes** para preparar todos los cambios para el commit.
 3. Escribimos un mensaje explicativo y pulsamos **Commit Changes** para registrar el commit.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/9b2141f2-e7bd-4224-b2c9-48366e809b03)
 
 4. Hacemos un **Fetch All** para actualizar nuestra copia local con los últimos cambios del repositorio remoto.
-
-_**Poner foto aquí**_
-
 5. Realizamos un **Pull** (modo fast-forward si es posible) para asegurarnos de tener la última versión sincronizada.
-
-_**Poner foto aquí**_
-
 6. Finalmente, hacemos un **Push** para subir nuestros cambios al repositorio remoto.
 
-_**Poner foto aquí**_
+![image](https://github.com/user-attachments/assets/bf160e91-335b-4b79-a47a-9dc5eee84be8)
 
 ---
 
