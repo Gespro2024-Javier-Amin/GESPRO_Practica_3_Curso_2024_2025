@@ -25,7 +25,7 @@ GNU General Public License for more details.
 # Guía para pasar un commit del repositorio Go Bees a la rama master local
 
 ### Autor: Jose Javier Velasco Whu y Mohamed Amin El Amrani El Khottouli
-# URL Repo: https://github.com/Gespro2024-Javier-Amin/GESPRO_Practica_3_Curso_2024_2025
+##### URL Repo: https://github.com/Gespro2024-Javier-Amin/GESPRO_Practica_3_Curso_2024_2025
 
 ---
 
