@@ -148,7 +148,7 @@ En esta captura se ven claramente todos los commits, pasos, etc... dados en el G
 
 1. Especificación del primer commit creado:
    
-![image](https://github.com/user-attachments/assets/45d75985-034a-4547-a99a-2ca3004e31d6)
+![image](https://github.com/user-attachments/assets/c2bb64ec-8a83-4f2b-bc8a-56d87803be92)
 
 3. Especificación del ultimo commit creado:
 
