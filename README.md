@@ -110,13 +110,13 @@ Para comenzar, nos aseguraremos de posicionarnos en el commit correspondiente de
 
 ---
 
-## **8. Verificación del commit**
+## **8. Verificación del commity visualización de ramas**
 
 1. Verificamos que el commit creado aparece correctamente reflejado en nuestra rama `master` local.
 
 ![image](https://github.com/user-attachments/assets/542e1280-cbaa-4bfd-a14f-41e7b7fd6e97)
 
-2. Visualizamos todos los commits realizados en el proyecto:
+2. Visualizamos todas las ramas creadas en el proyecto:
 
 ![image](https://github.com/user-attachments/assets/af860941-e325-4b18-ada1-370a0efbeef8)
 
@@ -140,8 +140,17 @@ Para comenzar, nos aseguraremos de posicionarnos en el commit correspondiente de
 
 ## **10. Foto de todo el proyecto en GitKraken**
 
-Incluimos una captura de todo el proyecto visualizado en GitKraken para verificar la estructura y el estado de las ramas.
+Incluimos una captura de todo el grafico del proyecto visualizado en GitKraken para verificar la estructura y el estado de las ramas.
 
 ![image](https://github.com/user-attachments/assets/70902a05-3258-4624-9d9e-e6a42fd3957e)
 
 En esta captura se ven claramente todos los commits, pasos, etc... dados en el GitKraken.
+
+1. Especificación del primer commit creado:
+   
+![image](https://github.com/user-attachments/assets/45d75985-034a-4547-a99a-2ca3004e31d6)
+
+3. Especificación del ultimo commit creado:
+
+![image](https://github.com/user-attachments/assets/029d4a72-ca5d-4221-8af4-50a3fe73bdc5)
+
